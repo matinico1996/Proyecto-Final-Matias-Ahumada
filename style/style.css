@@ -73,3 +73,14 @@
     border-top: 1px solid black;
     text-align: center;
   }
+
+
+  .carousel slide carousel-fade
+  {
+    margin-top: 10px;
+  }
+
+  .carousel-item active
+  {
+    height: 65vh;
+  }
